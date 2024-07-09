@@ -31,7 +31,7 @@ git clone https://github.com/ANUPAM-YADAV-07/Analog-Clock.git
 Open the Folder
 
 ```bash
-cd Spotify_Clone
+cd Analog-Clock
 ```
 
 **VS Code**
